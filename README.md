@@ -1,4 +1,5 @@
 # JupyterLite Demo
+See how to deploy: https://github.com/restrepo/PythonTipsAndTricks/blob/master/jupyterlite/deploy.md
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
